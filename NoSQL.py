@@ -1,5 +1,5 @@
 #import json
-import pandas as pd
+#import pandas as pd
 
 #with open("C:/Users/Antoine/Documents/Repo_NoSQL-Antoine Nguyen cao/movies_rated_tagged.json", 'r') as fic:
 
@@ -18,7 +18,7 @@ import pandas as pd
 
 
 
-    import pandas as pd
+    #import pandas as pd
 
 #fichier = pd.read_json (r'C:/Users/Antoine/Documents/Repo_NoSQL-Antoine Nguyen cao/movies_rated_tagged.json')
 #print (fichier)
@@ -27,8 +27,8 @@ import pandas as pd
 #df = pd.DataFrame(fichier, columns= ['movieId','tag'])
 #print (df)
 
-import numpy as np
-import pandas as pd
+#import numpy as np
+#import pandas as pd
 
 #fichier = pd.read_json (r'C:/Users/Antoine/Documents/Repo_NoSQL-Antoine Nguyen cao/movies_rated_tagged.json')
 
